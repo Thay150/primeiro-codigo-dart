@@ -1,0 +1,15 @@
+void main()
+{
+   int minhacontabancaria=480;
+  int contabancariadaminhaprima=1000;
+  
+  if(minhacontabancaria>contabancariadaminhaprima)
+     {
+       print('minha conta bancaria é bem maior que da minha prima!');
+       
+     }else
+  {
+    print('a conta bancaria da minha prima e menor quea minha!');
+  }
+ 
+}
